@@ -1,0 +1,5 @@
+Changelog##1
+-Next time you get on, update the resume png to latest updated png
+-Finish the styling and make 2 other css files(preferably one css file for each html)
+-add remaining pngs and stylings
+-implement vids and links to github etc.

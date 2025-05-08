@@ -1,0 +1,21 @@
+Hello, my name is Jordan Chambers, and I am an aspiring and dedicated software developer with over two years of hands-on programming experience, along with about one year of employment experience. I am passionate about computers, software development, and the evolving landscape of technology. My long-term goal is to build a thriving career in computer science or cybersecurity, ultimately earning a six-figure role doing what I love most—creating meaningful, innovative solutions through code.
+
+I am currently certified as an HTML and CSS Web Designer and actively pursuing additional certifications in Java, Python, Data Analytics, C#, and Cybersecurity. I believe that continual learning and skill development are essential in this fast-paced industry, and I strive to stay ahead by consistently expanding my technical knowledge and toolkit.
+
+I am also the lead developer of an original retro-inspired RPG video game built using GDScript and C#. The game, heavily influenced by classics such as The Legend of Zelda: A Link to the Past, is currently five months into development. This passion project has sharpened my skills in game design, object-oriented programming, problem-solving, and cross-discipline collaboration.
+
+Academically, I am preparing to pursue a degree in either Computer Science or Cybersecurity from one of several competitive institutions, including Michigan Tech University, Ferris State University, Northwood University, or Delta College. My focus will be on strengthening both my theoretical understanding and practical capabilities to better position myself for future leadership and development roles in the tech industry.
+
+In every project I take on, I bring enthusiasm, curiosity, and a commitment to excellence. Whether it's building web applications, developing video games, or exploring the intricacies of cybersecurity, I am driven by a genuine love for technology and a desire to make a meaningful impact.
+
+
+
+The Great Lakes Bay Region holds a special place in my heart, not only for its natural beauty but also for the sense of community and opportunity it offers. As someone who has grown up surrounded by the charm of its small towns, the friendliness of its people, and the richness of its culture, I find it hard to imagine a better place to build a life after college.
+
+One of the most compelling reasons I would want to stay in the Great Lakes Bay Region is its unique combination of natural and urban environments. From the quiet trails of the Shiawassee National Wildlife Refuge to the vibrant downtowns of Bay City, Midland, and Saginaw, the region offers the perfect balance between peaceful living and cultural engagement. I enjoy kayaking on the Saginaw River, exploring the gardens at Dow Gardens, and attending community events like Friday Night Live or local farmers markets. These experiences have shaped my appreciation for a region that values nature, recreation, and togetherness.
+
+Another reason I want to stay is the strong sense of community. People in the Great Lakes Bay Region support one another, and there’s a genuine care that you can feel whether you’re at a local business, school event, or volunteering opportunity. The region is full of people who are proud of where they come from and are actively working to make it a better place. That kind of community spirit is rare and meaningful—it’s the kind of environment where I want to live, work, and raise a family.
+
+The Great Lakes Bay Region is also growing and full of potential. With a focus on innovation, especially in healthcare, education, and advanced manufacturing, the area is becoming more attractive to young professionals. After college, I see real opportunities here—not just for employment, but for making a difference. Whether it's through civic engagement, entrepreneurship, or simply giving back to local organizations, I believe I can have a positive impact right here at home.
+
+In short, the Great Lakes Bay Region is more than just where I’m from—it’s where I belong. Its combination of natural beauty, strong community values, and growing opportunities make it a place I’m proud of and excited about. That’s why, after college, I don’t just want to return—I want to stay.
