@@ -17,7 +17,15 @@
         <button onclick="location.href='index.html'">Home</button>
         <button onclick="location.href='crimsondebt.html'">The Crimson Debt</button>
         <button id="theme-toggle">Toggle Theme</button>
-        <div id="realtime" style="font-size: 1.5rem; font-family: monospace;"></div>
+        <div class="dropdown">
+  <button class="dropbtn">Select Option</button>
+  <div class="dropdown-content" id="dropdownMenu">
+    <a href="bloglist.html">Blogs</a>
+    <a href="#">Personal Journal</a>
+    <a href="#">Contact Me</a>
+  </div>
+</div>
+<div id="realtime" style="font-size: 1.5rem; font-family: monospace;"></div>
       </div>
     </div>
   </header>
@@ -81,5 +89,6 @@
   </footer>
 <script src="toggle.js"></script>
 <script src="realtime.js"></script>
+<script src="dropdown.js"></script>
 </body>
 </html>

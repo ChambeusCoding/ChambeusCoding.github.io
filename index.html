@@ -17,7 +17,15 @@
         <button onclick="location.href='index.html'">Home</button>
         <button onclick="location.href='crimsondebt.html'">The Crimson Debt</button>
         <button id="theme-toggle">Toggle Theme</button>
-        <div id="realtime" style="font-size: 1.5rem; font-family: monospace;"></div>
+        <div class="dropdown">
+  <button class="dropbtn">Select Option</button>
+  <div class="dropdown-content" id="dropdownMenu">
+    <a href="bloglist.html">Blogs</a>
+    <a href="#">Personal Journal</a>
+    <a href="#">Contact Me</a>
+  </div>
+</div>
+<div id="realtime" style="font-size: 1.5rem; font-family: monospace;"></div>
       </div>
     </div>
   </header>
@@ -46,13 +54,15 @@
     <section class="card">
       <h2>About Me</h2>
       <p>
-        Hello, my name is Jordan Chambers. I’m an aspiring and dedicated software developer with over two years of programming experience and about a year of professional employment. I’m passionate about computers, software development, and the evolving landscape of technology. My long-term goal is to build a successful career in computer science or cybersecurity, ultimately securing a six-figure role creating innovative, meaningful solutions through code.
+          -Hello, my name is Jordan Chambers. I’m an aspiring and dedicated software developer with over two years of programming experience and about a year of professional employment. I’m passionate about computers, software development, and the evolving landscape of technology. My long-term goal is to build a successful career in computer science or cybersecurity, ultimately securing a six-figure role creating innovative, meaningful solutions through code.
 
 I’m currently certified as an HTML and CSS Web Designer and actively pursuing certifications in Java, Python, Data Analytics, C#, and Cybersecurity. I believe in continuous learning and strive to expand my technical skillset to stay ahead in this fast-paced industry.
 
-I’m also the lead developer of a retro-style RPG built with GDScript and C#, now five months into development. This project has strengthened my abilities in game design, object-oriented programming, problem-solving, and cross-discipline collaboration.
+<p>
+    -I’m also the lead developer of a retro-style RPG built with GDScript and C#, now five months into development. This project has strengthened my abilities in game design, object-oriented programming, problem-solving, and cross-discipline collaboration.
 
 Academically, I’m preparing to pursue a degree in Computer Science or Cybersecurity from institutions such as Michigan Tech, Ferris State, Northwood University, or Delta College. My goal is to deepen both my theoretical knowledge and hands-on expertise to prepare for future leadership roles in tech.
+</p>
       </p>
     </section>
 
@@ -109,5 +119,6 @@ Academically, I’m preparing to pursue a degree in Computer Science or Cybersec
 
 <script src="toggle.js"></script>
 <script src="realtime.js"></script>
+<script src="dropdown.js"></script>
 </body>
 </html>
