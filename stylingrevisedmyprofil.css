@@ -292,3 +292,11 @@ iframe {
   background-color: var(--highlight);
   color: var(--button-text);
 }
+
+/* Ensure the GIF scales down on smaller screens */
+@media (max-width: 576px) {
+  .content-img {
+    width: 100%;  /* Makes the image fit the screen width */
+    height: auto; /* Maintains aspect ratio */
+  }
+}
