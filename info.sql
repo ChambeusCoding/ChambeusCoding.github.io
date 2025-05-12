@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS form_data;
+
+USE form_data;
+
+CREATE TABLE IF NOT EXISTS email_submissions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255) NOT NULL,
+    submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
