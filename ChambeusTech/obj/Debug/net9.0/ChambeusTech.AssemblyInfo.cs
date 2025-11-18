@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChambeusTech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d52ab01f912f111841ee2ba62531f4e182e218b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e98ab08c3e7897376deb7585f955ec7c8bc634a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChambeusTech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChambeusTech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
